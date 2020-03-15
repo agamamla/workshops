@@ -1,1 +1,1 @@
-# awsWorkshops
+# workshops
