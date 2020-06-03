@@ -13,9 +13,9 @@ var postData = querystring.stringify({
 });
 
 const options = {
-    "hostname": "computer-database.gatling.io",
+    "hostname": "",
     "port": 443,
-    "path": "/computers",
+    "path": "",
     "method": "POST",
     "headers": {
       "Content-Type": "application/x-www-form-urlencoded",
